@@ -107,7 +107,7 @@ Para el fichero de documentos que le han gustado:
 
 Por último, en el ejemplo propuesto en el código el resultado obtenido de la recomendación es: 
 
-![alt text](https://github.com/alu0101061672/TAAD/blob/main/recomendación.png)
+<img width="719" alt="recomendación" src="https://user-images.githubusercontent.com/43813221/190129896-cc727320-4a7f-403a-a844-67f556e70ecb.png">
 
 Se pueden verificar los resultados obtenidos mirando la matriz:
 
