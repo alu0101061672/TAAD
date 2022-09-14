@@ -111,4 +111,5 @@ Por último, en el ejemplo propuesto en el código el resultado obtenido de la r
 
 Se pueden verificar los resultados obtenidos mirando la matriz:
 
-![alt text](https://github.com/alu0101061672/TAAD/blob/main/verificación_recomendación.png)
+<img width="647" alt="verificación_recomendación" src="https://user-images.githubusercontent.com/43813221/190130038-631ac0f5-08ba-4f08-ac80-176c530fe617.png">
+
