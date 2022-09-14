@@ -95,12 +95,3 @@ Se puede concluir que se ha construido un sistema recomendador que, con dos fich
 
 ## Referencias
 
-[1] Fuente del conjunto de datos, posibles documentos a recomendar (documents.txt): 
-
-[https://drive.google.com/file/d/1kJ91jBvhxpny2m3UfvI3YhY6T0BsliV5/view?usp=sharing](https://drive.google.com/file/d/1kJ91jBvhxpny2m3UfvI3YhY6T0BsliV5/view?usp=sharing) 
-
-[2] Fuente del conjunto de datos, posibles documentos a recomendar (documents_liked.txt):
-
-[https://drive.google.com/file/d/13iD9qvDBMd_gPeMr7NRm_-2DQigWepTP/view?usp=sharing](https://drive.google.com/file/d/13iD9qvDBMd_gPeMr7NRm_-2DQigWepTP/view?usp=sharing) 
-
-[3] Repositorio GitHub: [https://github.com/alu0101061672/TAAD.git](https://github.com/alu0101061672/TAAD.git) 
