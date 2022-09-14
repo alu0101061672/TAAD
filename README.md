@@ -93,5 +93,20 @@ Se pueden comprobar los resultados con la matriz anteriormente creada o con el t
 
 Se puede concluir que se ha construido un sistema recomendador que, con dos ficheros de entrada, uno con los posibles documentos a recomendar al usuario con un formato específico y otro con los documentos que le han gustado al usuario, puede recomendar aquellos que tengan una similitud de al menos 0,6. Con lo que se ha logrado el objetivo inicial de recomendar a un usuario nuevos documentos conociendo algunos que le hayan gustado previamente en base a la similitud entre ellos.
 
-## Referencias
+## Ejemplo de uso
+
+Se deben de cargar los dos ficheros mencionados. Los posibles documentos a recomendar y los documentos que le han gustado al usuario. Una vez se han cargado los documentos con los formatos determinados, se ejecuta todo el código para obtener las recomendaciones.
+
+El formato debe ser como se muestra a continuación para el fichero de posibles documentos a recomendar:
+
+
+
+Para el fichero de documentos que le han gustado:
+
+
+
+Por último en el ejemplo propuesto en el código el resultado obtenido de la recomendación es: 
+
+
+
 
