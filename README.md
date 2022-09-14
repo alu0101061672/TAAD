@@ -99,14 +99,16 @@ Se deben de cargar los dos ficheros mencionados. Los posibles documentos a recom
 
 El formato debe ser como se muestra a continuación para el fichero de posibles documentos a recomendar:
 
-
+![alt text](https://github.com/alu0101061672/TAAD/blob/main/posibles_documentos.png)
 
 Para el fichero de documentos que le han gustado:
 
+![alt text](https://github.com/alu0101061672/TAAD/blob/main/documentos_gustados.png)
 
+Por último, en el ejemplo propuesto en el código el resultado obtenido de la recomendación es: 
 
-Por último en el ejemplo propuesto en el código el resultado obtenido de la recomendación es: 
+![alt text](https://github.com/alu0101061672/TAAD/blob/main/recomendación.png)
 
+Se pueden verificar los resultados obtenidos mirando la matriz:
 
-
-
+![alt text](https://github.com/alu0101061672/TAAD/blob/main/verificación_recomendación.png)
